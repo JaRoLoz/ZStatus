@@ -1,5 +1,5 @@
 # ZStatus
-Versatile and high-customizable status bar for window managers suchs as i3.
+Versatile and high-customizable status bar for window managers such as i3.
 
 # Compiling
 Run `./build.sh` to compile as debug, run `./build_release.sh` to compile as release.
